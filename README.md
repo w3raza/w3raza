@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiktoria</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a Student of AGH University of Science and Technology 💚🖤💓</h3>
 
 - 🌱 I’m currently learning **Java**
