@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Java**
 
+- 🖥 work as a junior java developer
+
 - 👯 I’m looking to collaborate with **others**
 
 - 💬 Ask me about **anything**
